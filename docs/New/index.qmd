@@ -1,0 +1,30 @@
+---
+title: New Post
+---
+
+<img src="education_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://arxiv.org/abs/2210.07278&apos;, &apos;blank&apos;);"/>
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">**Education**</a> \| <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">**2003 - Current**</a><br>
+
+**Case Western Reserve University, School of Medicine, Cleveland, USA**
+
+PhD student in Clinical and Translational Sciences
+
+**2024 - Current**
+
+**Shahid Beheshti University of Medical Sciences, School of dentistry, Tehran, Iran**
+
+M.Sc, Restorative Dentistry
+
+**2011 - 2014**
+
+**Guilan University of Medical Sciences (GUMS), School of Dentistry, Rasht, Iran**
+
+D.D.S., General Dentistry
+
+**2003 - 2009**
+
+------------------------------------------------------------------------
+
+```{=html}
+```

@@ -1,0 +1,54 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: google scholar
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=vUVIvJkAAAAJ&hl=en&authuser=1
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mahsa-sheikh-0442b545/
+    - icon: envelope
+      text: Email
+      href: "mailto:sxs3195@case.edu"  
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: {#about-block}
+:::
+
+# Meet Me
+
+My enthusiasm to pursue an education beyond practicing general dentistry
+comes from my involvement with an oral health project in my hometown
+while I was a dental student. A region of my hometown, Ramsar, is the
+most radioactive inhabited area known on Earth due to nearby hot springs
+and construction material derived from the region. A team of researchers
+from the Department of Public Health at Shahid Beheshti University of
+Medical Sciences (SBMU) performed a clinical study linking oral
+manifestations to living in a radioactive area. From that moment, I
+realized that environmental factors are essential in oral health.
+
+In 2011, I was admitted to a restorative residency program with a
+clinical focus in my dream dental school at Shahid Beheshti Medical
+University (SBMU). I also joined a dental materials research lab at the
+SBMU Research Institute of Dental Science and continued to work
+throughout my residency. The lab was specialized in physicomechanical
+analysis of dental materials.
+
+My search for a rich program focused on patient-oriented research
+attracted me to the PhD program in Clinical Translational Science
+program. It seems that this program makes an opportunity for me to gain
+experience in field of clinical sciences and translational sciences.The advanced courses, covering different areas of science and research methods, are challenging and require me to learn things that are new and unfamiliar. Although challenges can be difficult, they are essential for growth and provide the opportunity to build new skills, gain confidence, and ultimately succeed in the field.
+
+On this website, you will find a selection of my published works,
+including scholarly articles. I invite you to explore my website. Please
+feel free to [contact me](mailto:sxs3195@case.edu) if you have any
+questions or would like to discuss potential projects.
+
+```{=html}
+```

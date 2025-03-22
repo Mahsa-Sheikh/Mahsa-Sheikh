@@ -1,0 +1,13 @@
+---
+title: Moving a World Beyond P Value
+---
+
+In research, the p-value is often used to decide whether a result is statistically significant. However, a small p-value doesn’t always mean the result is important or useful in real life. As pointed out in the editorial Moving to a World Beyond ‘p < 0.05’, statistical significance does not guarantee that the effect is meaningful or true. A small p-value may suggest an effect, but if the effect size is small, the result may have little real-world impact. This is especially important in areas like healthcare, where the real value of a treatment should be considered alongside its statistical significance.
+
+Changing the way we think about statistics and decision-making can be difficult, as old habits are hard to break. As psychologist Kurt Lewin once said, “If you want to truly understand something, try to change it.” While it’s important to look beyond just the p-value, researchers must also consider the effect size, sample size, and context of the study. This helps us see if a result is truly meaningful, not just statistically significant. By educating others and encouraging collaboration across fields, we can ensure research findings have real value and impact. Focusing on the bigger picture, rather than just p-values, will lead to better decision-making in many areas of life.
+
+
+
+
+```{=html}
+```

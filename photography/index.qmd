@@ -1,0 +1,36 @@
+---
+title: "Professional Position"
+---
+
+**2014-Current**
+
+-   **Case Western Reserve University, Cleveland, USA**
+
+    ~PhD Student, Department of Population and Quantitative Health Sciences, School of Medicine~
+
+     ^Volunteer Part Time Faculty Member, SIM Clinic, Dental School^
+
+-   **Tehran University of Medical Sciences, Tehran, Iran**
+
+    ^Assistant Professor, Department of Restorative Dentistry, Dental School^
+
+-   **Shahid Beheshti University of Medical Sciences, Tehran, Iran**
+
+    ^Technical Manager, Dental Material Lab, Research Institute of Dental Sciences^
+
+-   **Shahid Beheshti University of Medical Sciences, Tehran, Iran**
+
+    ^Assistant Professor, Department of Restorative Dentistry, Dental School^
+
+-   **Alborz University of Medical Sciences, Karaj, Iran**
+
+    ^Assistant Professor, Department of Restorative Dentistry, Dental School^
+
+::: {layout-ncol="2"}
+![](IMG_9694.jpg){width="659"}
+
+![](IMG_9699.jpg){width="617"}
+:::
+
+```{=html}
+```
